@@ -13,9 +13,9 @@ A Student resource. Each student will have:
 For data storage, i will use an in-memory storage {Python dictionary}
 
 Create endpoints to do the following:
-    Create a Student resource******************************************(POST)*****************************
-    Retrieve a Student resource (one Student and many Students)********(GET)********************************
-    Update a Student resource******************************************(PUT)********************************
-    Delete a Student resource******************************************(DELETE)********************************
+    Create a Student resource - (POST)
+    Retrieve a Student resource (one Student and many Students) - (GET)
+    Update a Student resource - (PUT)
+    Delete a Student resource (DELETE)
+    
 
-*****ALTSCHOOL********************************
